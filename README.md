@@ -1,5 +1,4 @@
 # Completed Task
-## In This Repository I have completed the todo tasks of my first semester 
 
 1. Library Management system use to manage all the tasks in a library.
 2. Sieve of Erastosthenis is basically an algorithm to find the primes upto a given numnber.
